@@ -1,0 +1,143 @@
+.wrapper {
+  background-color: white;
+  height:800px;
+  width: 900px;
+}
+
+.mainP {
+  background-color: white;
+  height:800px;
+  width:800px;
+}
+
+.imgPhone {
+  background-color: green;
+  height:500px;
+  width:300px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 100px;
+}
+
+#iphone {
+  margin-left: -45px;
+  margin-top: -40px;
+}
+
+#instaPic {
+  height: 65px;
+  width:350px;
+}
+
+.register {
+  background-color: white;
+  height:680px;
+  font-family: arial;
+  width:350px;
+  float: right;
+  margin-right: 20px;
+  margin-top: 70px;
+  margin-left: 10px;
+  border-style: solid;
+  border-color: grey;
+
+}
+
+.instaImg {
+  border-bottom: grey;
+  height:50px;
+  width:350px;
+}
+
+.mainP {
+  margin-left: 400px;
+}
+
+.signUPtxt {
+  background-color: white;
+  height:40px;
+  width:350px;
+
+}
+
+.Login {
+  background-color: blue;
+  text-align: center;
+  color: white;
+  height:30px;
+  width:350px;
+}
+
+.-OR- {
+  background-color: white;
+  color: grey;
+  height:17px;
+  width:350px;
+}
+
+.signUpReg {
+  background-color: white;
+  height:150px;
+  width:350px;
+
+}
+
+.signUpBtn {
+  background-color: blue;
+  text-align: center;
+  color: white;
+  height:30px;
+  width:350px;
+
+}
+
+.signUpcloseTxt {
+  background-color: white;
+  font-style: bold;
+    height:40px;
+  width:350px;
+
+}
+
+.haveAnAcc {
+  background-color: white;
+  font-style: oblique;
+    height:35px;
+  width:350px;
+
+}
+
+.HAAccTxt {
+  display: inline-block;
+}
+
+.GTA {
+  background-color: white;
+
+  height:150px;
+  width:350px;
+  margin-top: 50px;
+}
+
+.logInText {
+  color: blue;
+}
+.LogoImg {
+  display: inline-block;
+  width: 10px;
+}
+
+.LogoImg2 {
+  width: 10px;
+  margin-left: 150px;
+  display: inline-block;
+}
+.footer {
+  background-color: white;
+  margin-top: 100px;
+  height:100px;
+  width:900px;
+  display: inline-block;
+  font-size: 10px;
+
+}
