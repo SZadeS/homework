@@ -58,18 +58,7 @@
 
   }
 
-.instalogo{
-    border-bottom: grey;
-    height:50px;
-    width:350px;
-  }
 
-  .signUPtxt {
-    background-color: white;
-    height:40px;
-    width:350px;
-
-  }
 
 
   .clicksu{
@@ -89,13 +78,7 @@
 
   }
 
-  .haveAnAcc {
-    background-color: white;
-    font-style: oblique;
-      height:35px;
-    width:350px;
 
-  }
 
   .logintext {
     color: grey;
@@ -111,3 +94,20 @@
     font-size: 10px;
 
   }
+
+}
+.deco1{
+  height: 1000px;
+  width: 1000px;
+  background-color: green;
+}
+.hide{
+  height: 400px;
+  width: 400px;
+  background-color: purple;
+}
+@media screen and (max-width:400px){
+.deco1{width:100%;}
+.hide{display:none;}
+
+}

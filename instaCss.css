@@ -141,3 +141,7 @@
   font-size: 10px;
 
 }
+@media screen and (max-width:400px){
+.deco1{width:100%}
+.hide{display:none}
+}
